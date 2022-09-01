@@ -3,7 +3,7 @@ Reading notes for Code Fellows 301
 # Table of Contents
 - [Read: 301-Class 01](301_Read_Class_01.md)
 - [Read: 301-Class 02](301_Read_Class_02.md)
-# - [Read: 301-Class 03](301_Read_Class_03.md)
+- [Read: 301-Class 03](301_Read_Class_03.md)
 # - [Read: 301-Class 04](301_Read_Class_04.md)
 # - [Read: 301-Class 05](301_Read_Class_05.md)
 # - [Read: 301-Class 06](301_Read_Class_06.md)
