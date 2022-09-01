@@ -9,3 +9,5 @@ Windows server does have a GUI, but windows recommends not using it to reduce th
 Windows server support higher-end hardware.
 
 Windows server is locked down.  Doesn't have the bloat (Cortona etc.) that Windows does. It doesn't support signing in with a Microsoft account.
+
+[Original Article](https://www.howtogeek.com/404763/whats-the-difference-between-windows-and-windows-server/)
