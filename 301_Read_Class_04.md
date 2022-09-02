@@ -9,10 +9,10 @@ A GPO is a group of settings that are created using the Microsoft Management Con
 
 GPOs that are in nested OUs work from the OU closest to the root first and outwards from there.
 
-The order that GPOs are processed is known as LSDOU (local, site, domain, organizational unit)
+The order that GPOs are processed is known as LSDOU (local, site, domain, organizational unit).
 
 ### Benefits of GPO
-- Password Policy
+- Password Policy 
 - Systems Management
 - Health Checking
 
