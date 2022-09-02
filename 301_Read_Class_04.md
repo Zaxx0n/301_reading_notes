@@ -11,7 +11,7 @@ GPOs that are in nested OUs work from the OU closest to the root first and outwa
 
 The order that GPOs are processed is known as LSDOU (local, site, domain, organizational unit)
 
-### Benifits of GPO
+### Benefits of GPO
 - Password Policy
 - Systems Management
 - Health Checking
