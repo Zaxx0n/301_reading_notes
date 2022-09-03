@@ -1,11 +1,14 @@
-I've been so busy today that this is just filler.  I will finish this tomorrow, Saturday the 3rd of Sept.
+# What Is Microsoft’s Patch Tuesday?
 
-What Is Microsoft’s Patch Tuesday?
-Sometimes called “Update Tuesday,” Patch Tuesday is an unofficial term for the day when Microsoft releases update packages for the Windows operating system and other Microsoft software applications, including Microsoft Office.
+Patch Tuesday or "Update Tuesday" is an unofficial term for the day when Microsoft releases update packages for the Windows operating system and other Microsoft software.
 
-As Microsoft patches security vulnerabilities, it doesn’t release those patches immediately. Instead, the company gathers those fixes into a larger update, which is released on Patch Tuesday.
+Microsoft doesn't release patches immediately, instead they wait until Tuesday. This is done so that Admins can plan for it.  IT professionals know that patches will arrive on the second Tuesday of each month, and they can make plans to test or install them. 
 
-Microsoft does this to make the update process as predictable as possible for administrators. IT professionals know that patches will arrive on the second Tuesday of each month, and they can make plans to test or install them. It should be easier than continually applying smaller patches and more predictable than huge patches arriving on a random day of the month.
+### When Is Patch Tuesday?
+Patch Tuesday occurs on the second Tuesday of each month in North America.
 
-When Is Patch Tuesday?
-Patch Tuesday occurs on the second Tuesday of each month. More precisely, it occurs on the second Tuesday of each month in North America.
+### It's not just updates
+In some cases Microsoft will send out "out-of-band" updates for security flaws.
+
+### Patch Tuesday is for "B" updates
+They are called "B" updates because they are released the second week of each month.  If it's the 3rd "C", 4th "D". The "C" and "D" updates are considered optional.
