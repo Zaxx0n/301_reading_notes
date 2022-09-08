@@ -5,4 +5,4 @@ The goal behind NGINX was to create the fastest web server, which is still a goa
 
 Many high-traffic websites such as Dropbox, Netflix, and Zynga.
 
-It keeps evolving and is in the forefront of development of the modern Web.
+It keeps evolving and is in the forefront of development of the modern web.
