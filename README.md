@@ -11,7 +11,7 @@ Reading notes for Code Fellows 301
 - [Read: 301-Class 08](301_Read_Class_08.md)
 - [Read: 301-Class 09](301_Read_Class_09.md)
 - [Read: 301-Class 10](301_Read_Class_10.md)
-# - [Read: 301-Class 11](301_Read_Class_11.md)
+- [Read: 301-Class 11](301_Read_Class_11.md)
 # - [Read: 301-Class 12](301_Read_Class_12.md)
 # - [Read: 301-Class 13](301_Read_Class_13.md)
 # - [Read: 301-Class 14](301_Read_Class_14.md) -->
