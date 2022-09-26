@@ -1,0 +1,3 @@
+# When Women Stopped Coding
+
+Computer science is dominated by men, but it wasn’t always like that.  For decades women were pioneers and the largest growing members of computer science, but then something happened in 1984.  In 1984 the percentage flattened and then after that took a deep dive.  This happened around the same time that personal computers started becoming available.  When advertised, these personal computers were targeted to men and boys. This became the “narrative”. It started a whole culture, defining geeks as boys and so spawned the techie culture.  The story of the computer revolution was thus rewritten for men.  This idea fed on itself and was thus told over and over that computers were tools used by boys and men.
